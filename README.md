@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jacob @ Square2
+- 👋 Hi, I’m Jacob @ Square2/SEG
 - 👀 I’m interested in learning to customize CRMs
 - 🌱 I’m currently learning to do my best
 - 💞️ I’m looking to collaborate on ...
